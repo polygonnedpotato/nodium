@@ -1,0 +1,11 @@
+{
+  "name": "nodium",
+  "version": "0.0.0.0",
+  "description": "Node.js based operating system for the Nodium System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elburg",
+  "license": "MIT"
+}
